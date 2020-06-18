@@ -1,0 +1,6 @@
+framework module Pods_SpringAPP {
+  umbrella header "Pods-SpringAPP-umbrella.h"
+
+  export *
+  module * { export * }
+}
